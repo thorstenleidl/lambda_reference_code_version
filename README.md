@@ -2,7 +2,7 @@
 This function has to be triggerd by CodePipeline and updates the description of an Elastic Beanstalk application version.
 
 ## Prerequisities
-### Boto3 authentication 
+### Boto3 authentication
 You have to provide valid credentials in your "~/.aws/credentials" file
 
 ### Naming
