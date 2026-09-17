@@ -25,3 +25,7 @@ The name of the CodePipeline has to be in the same structure (e.g. name in packa
 
 * User Parameter: #{source_variables.CommitMessage}
 * Input artifacts: build_output (name has to be the same as the output artifact name in the build stage)
+
+## Lizenz
+
+MIT. 
