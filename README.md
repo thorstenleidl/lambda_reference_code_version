@@ -1,8 +1,8 @@
 # AWS Lambda function to reference the application versions to CodePipeline
 
-This function has to be triggerd by CodePipeline and updates the description of an Elastic Beanstalk application version.
+This function has to be triggered by CodePipeline and updates the description of an Elastic Beanstalk application version.
 
-## Prerequisities
+## Prerequisites
 
 ### Boto3 authentication
 
